@@ -65,7 +65,7 @@
 
 	<scm>
 		<connection>scm:git:https://github.com/rm5248/logging-log4cxx.git</connection>
-		<developerConnection>scm:git:https://github.com/rm5248/logging-log4cxx.git</developerConnection>
+		<developerConnection>scm:git:git@github.com:rm5248/logging-log4cxx.git</developerConnection>
 		<url>https://github.com/rm5248/logging-log4cxx</url>
 	</scm>
 
