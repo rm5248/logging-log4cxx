@@ -3,7 +3,7 @@
 	<groupId>log4cxx</groupId>
 	<artifactId>apache-log4cxx</artifactId>
 	<packaging>pom</packaging>
-	<version>0.11.1-SNAPSHOT</version>
+	<version>0.11.1</version>
 	<name>Apache log4cxx</name>
 	<description>Logging framework for C++.</description>
 	<url>http://logging.apache.org/log4cxx</url>
@@ -65,7 +65,7 @@
 		<connection>scm:git:https://github.com/rm5248/logging-log4cxx.git</connection>
 		<developerConnection>scm:git:git@github.com:rm5248/logging-log4cxx.git</developerConnection>
 		<url>https://github.com/rm5248/logging-log4cxx</url>
-	  <tag>HEAD</tag>
+	  <tag>apache-log4cxx-0.11.1</tag>
   </scm>
 
 	<organization>
